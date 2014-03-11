@@ -1,0 +1,9 @@
+[submodule "opencafe/repo"]
+	path = opencafe/repo
+	url = https://github.com/CafeHub/opencafe.git
+[submodule "cloudcafe/repo"]
+	path = cloudcafe/repo
+	url = https://github.com/stackforge/cloudcafe.git
+[submodule "cloudroast/repo"]
+	path = cloudroast/repo
+	url = https://github.com/stackforge/cloudroast.git
